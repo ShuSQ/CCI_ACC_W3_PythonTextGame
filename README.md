@@ -1,6 +1,8 @@
 # CCI_ACC_W3_PythonTextGame
 This is a simple text game in Python, and I also wrote my answer in the document; if I have more ability to write plots or mathematics, there should be a more exciting and rich story:
 
+YouTube: https://youtu.be/nB1lwxqiWN8
+
 ```python
 """
 --- readMe ---
