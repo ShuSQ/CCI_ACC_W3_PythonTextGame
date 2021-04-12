@@ -1,7 +1,7 @@
 # CCI_ACC_W3_PythonTextGame
 This is a simple text game in Python, and I also wrote my answer in the document; if I have more ability to write plots or mathematics, there should be a more exciting and rich story:
 
-```
+```python
 """
 --- readMe ---
 I added some obfuscator,
@@ -127,3 +127,5 @@ such as richer command line interaction, simple digital interface, etc.,
 or make the terminal more active and intelligent =_=!
 """
 ```
+
+
